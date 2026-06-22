@@ -11,7 +11,7 @@
                     hreflang="zh-cn"
                     href="https://zhihai-cui.github.io/basic-markdown-syntax/"
                     /></url><url>
-            <loc>https://zhihai-cui.github.io/categories/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://zhihai-cui.github.io/categories/</loc><lastmod>2026-06-17T00:23:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://zhihai-cui.github.io/en/categories/"
@@ -19,6 +19,44 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://zhihai-cui.github.io/categories/"
+                    /></url><url>
+            <loc>https://zhihai-cui.github.io/tags/hugo/</loc><lastmod>2026-06-17T00:23:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zhihai-cui.github.io/hugo_quick_start_guide/</loc><lastmod>2026-06-17T00:23:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://zhihai-cui.github.io/posts/</loc><lastmod>2026-06-17T00:23:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://zhihai-cui.github.io/en/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://zhihai-cui.github.io/posts/"
+                    /></url><url>
+            <loc>https://zhihai-cui.github.io/tags/</loc><lastmod>2026-06-17T00:23:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://zhihai-cui.github.io/en/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://zhihai-cui.github.io/tags/"
+                    /></url><url>
+            <loc>https://zhihai-cui.github.io/</loc><lastmod>2026-06-17T00:23:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://zhihai-cui.github.io/en/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://zhihai-cui.github.io/"
+                    /></url><url>
+            <loc>https://zhihai-cui.github.io/categories/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/</loc><lastmod>2026-06-17T00:23:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://zhihai-cui.github.io/en/categories/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://zhihai-cui.github.io/categories/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/"
                     /></url><url>
             <loc>https://zhihai-cui.github.io/tags/markdown/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
@@ -28,42 +66,6 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://zhihai-cui.github.io/tags/markdown/"
-                    /></url><url>
-            <loc>https://zhihai-cui.github.io/posts/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://zhihai-cui.github.io/en/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://zhihai-cui.github.io/posts/"
-                    /></url><url>
-            <loc>https://zhihai-cui.github.io/tags/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://zhihai-cui.github.io/en/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://zhihai-cui.github.io/tags/"
-                    /></url><url>
-            <loc>https://zhihai-cui.github.io/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://zhihai-cui.github.io/en/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://zhihai-cui.github.io/"
-                    /></url><url>
-            <loc>https://zhihai-cui.github.io/categories/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://zhihai-cui.github.io/en/categories/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://zhihai-cui.github.io/categories/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/"
                     /></url><url>
             <loc>https://zhihai-cui.github.io/about/</loc><lastmod>2019-08-02T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"

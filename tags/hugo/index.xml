@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hugo - 标签 - 崔志海</title>
+        <link>https://zhihai-cui.github.io/tags/hugo/</link>
+        <description>Hugo - 标签 - 崔志海</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>201244308@qq.com (崔志海)</managingEditor>
+            <webMaster>201244308@qq.com (崔志海)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 17 Jun 2026 00:23:57 &#43;0800</lastBuildDate><atom:link href="https://zhihai-cui.github.io/tags/hugo/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo 快速开始指南</title>
+    <link>https://zhihai-cui.github.io/hugo_quick_start_guide/</link>
+    <pubDate>Wed, 17 Jun 2026 00:23:57 &#43;0800</pubDate>
+    <author>201244308@qq.com (崔志海)</author>
+    <guid>https://zhihai-cui.github.io/hugo_quick_start_guide/</guid>
+    <description><![CDATA[<p>这篇文章可以让你在几分钟内快速入门Hugo.</p>]]></description>
+</item>
+</channel>
+</rss>
