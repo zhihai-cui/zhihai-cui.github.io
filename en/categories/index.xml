@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 崔志海</title>
-    <link>http://localhost:1313/en/categories/</link>
+    <link>https://zhihai-cui.github.io/en/categories/</link>
     <description>Recent content in Categories on 崔志海</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,19 +10,19 @@
     <webMaster>201244308@qq.com (崔志海)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Wed, 01 Jan 2020 16:45:40 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhihai-cui.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/en/categories/markdown/</link>
+      <title>基本技能</title>
+      <link>https://zhihai-cui.github.io/en/categories/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/</link>
       <pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate><author>201244308@qq.com (崔志海)</author>
-      <guid>http://localhost:1313/en/categories/markdown/</guid>
+      <guid>https://zhihai-cui.github.io/en/categories/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/</guid>
       <description></description>
     </item>
     <item>
       <title>Documentation</title>
-      <link>http://localhost:1313/en/categories/documentation/</link>
+      <link>https://zhihai-cui.github.io/en/categories/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>201244308@qq.com (崔志海)</author>
-      <guid>http://localhost:1313/en/categories/documentation/</guid>
+      <guid>https://zhihai-cui.github.io/en/categories/documentation/</guid>
       <description></description>
     </item>
   </channel>
